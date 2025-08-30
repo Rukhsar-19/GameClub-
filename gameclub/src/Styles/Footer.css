@@ -1,0 +1,73 @@
+.footer{
+background-color: rgb(14,20,23);
+    padding-top: 47px;
+}
+.footerparent{
+    display: flex;
+    /* justify-content: space-between;
+        align-items: center; */
+}
+.Footerleftside{
+    display: flex;
+    gap:10px;
+}
+.footlist{
+        display: flex;
+    /* flex-direction: column; */
+    flex-wrap: wrap;
+}
+.footlist li{
+    width:50%;
+    margin-bottom: 16px;
+}
+.footlist li a{
+    text-decoration: none;
+    font-size: 13px;
+    color: white;
+    transition: color 0.3s ease, transform 0.3s ease;
+}
+.footlist li a:hover {
+  color: #03e57d; 
+  transform: translateX(5px); 
+}
+.footerlast{
+    color: white;
+    font-size: 13px;
+}
+.lastlogo i{
+    color: white;
+     transition: transform 0.3s ease, color 0.3s ease;
+     cursor: pointer;
+}
+.lastlogo i:hover {
+  transform: scale(1.2);
+  color: #03e57d; 
+}
+.lastlogo{
+    display: flex;
+    gap: 23px;
+    justify-content: flex-end;
+}
+.copyright{
+    border-top: 1px solid   rgb(38,44,43);
+    text-align: center;
+    margin-top: 30px;
+    padding: 10px;
+}
+.copyright a{
+    text-decoration: none;
+     color: rgb(129,129,129); 
+   
+    font-size: 11px;
+    transition: color 0.3s ease, transform 0.3s ease;
+   cursor:pointer;
+
+    
+}
+.copyright a:hover{
+      color: #03e57d; 
+  transform: translateX(5px);
+}
+.footerlogos{
+    text-align: right;
+}

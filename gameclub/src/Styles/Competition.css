@@ -1,0 +1,24 @@
+.backcompetition{
+    position: relative;
+    z-index: 1;
+}
+.maskhead{
+    position: absolute;
+       top: 85px;
+    left: 41px;
+}
+.maskh{
+        color: white;
+   
+    font-size: 41px;
+    font-weight: bold;
+    width: 70%;
+}
+.maskp{
+    color: rgb(171,171,171);
+    font-size: 12px;
+    width: 47%;
+}
+.maskbutton{
+    margin-top: 20px;
+}

@@ -1,0 +1,57 @@
+.instantgames{
+    
+}
+
+/* .instanthead{
+        display: flex;
+    gap: 10px;
+    /* width: 97%; */
+       /* margin: 31px 0px;
+}  */
+
+ .instanttitle{ 
+        /* font-size: 40px;
+    font-weight: bolder; */
+    /* width: 47%;
+
+     /* color: white;  */
+     margin-bottom: 42px;
+}  
+ .instantpara{
+        text-align: right;
+        margin-bottom: 42px;
+            /* width: 44%; */
+    /* font-size: 12px;
+    color:rgb(180,180,180); */
+}
+
+.backgroundgrey{
+   background: rgba(255, 255, 255, 0.1);
+backdrop-filter: blur(47px);
+    width: 200px; 
+    padding: 10px;
+    border-radius: 8px;
+    height: 223px;
+    }
+ .actiongames{
+        display: flex;
+        align-items: center;
+    }
+    .spacehead{
+            font-size: 16px;
+    font-weight: bold;
+    color: white;
+
+    }
+    .spacepara{
+            font-size: 12px;
+    color: rgb(129,129,129);
+    }
+    .spacesupermacy{
+        margin-top: 20px;    
+    }
+    .instantbutton{
+        display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    }

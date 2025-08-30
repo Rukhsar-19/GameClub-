@@ -1,0 +1,54 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Urbanist:ital,wght@0,100..900;1,100..900&display=swap');
+
+* {
+  outline: none;
+}
+
+html {
+  overflow-x: hidden;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+  font-weight: 400;
+  background-color: white;
+   font-family: "Urbanist " !important; 
+   background-image: url("F:\Gameclub\gameclub\src\Assests\mainbgall.webp");
+   background-size: cover;
+}
+a,
+span {
+  font-weight: 400;  font-weight: 400;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+p,
+ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+/* main padding */
+.main-padding {
+  padding: 80px 0;
+}
+.main-heading{
+  
+font-size: 40px;
+font-weight:bolder;
+ color:white; 
+
+}
+.main-paragraph{
+  font-size: 13px;
+    color:rgb(180,181,181);
+    font-weight: 300;
+
+}

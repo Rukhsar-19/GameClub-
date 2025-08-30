@@ -1,0 +1,39 @@
+.hero{
+    background-image: url('F:\Gameclub\gameclub\src\Assests\heromain.webp');
+    background-size: cover;
+}
+.herocontent{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* padding: 217px; */
+    margin: 214px;
+    flex-direction: column;
+
+}
+.herohead{
+       font-size: 58px;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+    /* width: 47%; */
+}
+ .heropara{
+    color: rgb(195,192,193);
+    margin-bottom: 20px;
+    text-align: center;
+    /* font-size: 14px; */
+    /* width: 50%; */
+}
+.linearcolor{
+    border:none;
+    background: linear-gradient(to right, #03E57D,  #07A6D8);
+    
+}
+.whiteborder{
+    border:2px solid white;
+}
+.herobuttons{
+    display: flex;
+    gap:20px;
+}

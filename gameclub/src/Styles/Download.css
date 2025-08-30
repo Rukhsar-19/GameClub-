@@ -1,0 +1,19 @@
+
+
+.downloadleft{
+        width: 450px;
+    height: 246px;
+    background: #141414;
+    border-radius: 8px;
+    padding: 20px;
+}
+.downloadhead{
+    color: white;
+    font-weight: bolder;
+    font-size: 37px;
+}
+ .downloadpara{
+    /* color: rgb(143,143,143); */
+    /* font-size: 13px; */
+    margin-bottom: 20px;
+}

@@ -1,0 +1,136 @@
+.marketplace{
+    /* background-image: url(F:\Gameclub\gameclub\src\Assests\green.webp); */
+}
+
+
+.markethead{
+        display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+ .marketpara{
+        /* font-size: 13px; */
+    width: 50%;
+    text-align: center;
+    /* color: rgb(129,129,129); */
+    margin-bottom: 26px;
+}
+ .marketh{
+    /* font-size: 40px;
+    font-weight: bold;
+    color: white; */
+    margin: 0;
+}
+
+.marketslides{
+    height: 304px;
+    /* background: rgba(3, 3, 3, 0.6); */
+background: #2B2B2B;
+box-shadow: 0px 7.72607px 38.6304px rgba(0, 0, 0, 0.25);
+padding: 20px;
+width: 250px;
+border-radius: 17px;
+}
+.price-label {
+  color: white;
+  font-size: 11px;
+}
+
+.price-value {
+  color: #07A6D8;
+  font-size: 11px;
+}
+.price-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+ 
+}
+.nospace{
+    margin: 0;
+    font-size: 16px;
+}
+.marketslidepara{
+    color:rgb(134,134,134);
+    font-size: 12px;
+}
+.pergift{
+     color:rgb(134,134,134);
+    font-size: 11px;
+}
+.price-left{
+    display: flex;
+    gap:5px;
+}
+.marketbutton{
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
+.imagemarket{
+   
+    /* Rectangle 38 */
+
+
+
+background: rgba(3, 3, 3, 0.6);
+box-shadow: 0px 5.64039px 28.202px rgba(0, 0, 0, 0.25);
+border-radius: 8px;
+/* Rectangle 38 */
+
+
+background: rgba(3, 3, 3, 0.6) ;
+
+
+
+
+}
+.slider-controller{
+    position: relative;
+    z-index: 1;
+}
+ .slider-controller .coustom-prev{
+    /* color: black !important; */
+     position: absolute;
+    top: -167px;
+    left: 17px;
+}
+.slider-controller .coustom-next{
+    
+        position: absolute;
+    top: -167px;
+    /* left: 17px; */
+    right: 1px;
+} 
+
+
+
+.longbtn{
+    padding: 8px 80px;
+    font-size: 12px;
+}
+
+/* swipercontroller */
+/* .slider-controller{
+    position: relative;
+} */
+/* .swiper-button-prev .coustom-prev{
+    position: absolute;
+    top: -129px;
+    left: 17px;
+} */
+
+/* .swiper-button-next .coustom-next{
+        position: absolute;
+    top: -129px;
+    /* left: 17px; */
+    /* right: -7px;
+}  */
+
+
+
+
+
+
+
