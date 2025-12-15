@@ -1,3 +1,7 @@
+"engines": {
+  "node": "18.x"
+}
+
 {
   "name": "gameclub",
   "version": "0.1.0",
