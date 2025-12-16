@@ -1,5 +1,5 @@
 .hero{
-    background-image: url('F:\Gameclub\gameclub\src\Assests\heromain.webp');
+    background-image: url('..\Assests\heromain.webp');
     background-size: cover;
 }
 .herocontent{
